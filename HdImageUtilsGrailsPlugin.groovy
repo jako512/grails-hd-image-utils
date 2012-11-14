@@ -1,5 +1,5 @@
 class HdImageUtilsGrailsPlugin {
-    def version = "0.3"
+    def version = "0.3.mod-SNAPSHOT"
     def grailsVersion = "1.3 > *"
     def dependsOn = [:]
     def pluginExcludes = [
